@@ -1,0 +1,17 @@
+[
+  {
+    "deviceId": "device-2",
+    "reading": 45.7,
+    "time": 1685624400000
+  },
+  {
+    "deviceId": "device-3",
+    "reading": 32.1,
+    "time": 1685625000000
+  },
+  {
+    "deviceId": "device-2",
+    "reading": 46.2,
+    "time": 1685625600000
+  }
+]
