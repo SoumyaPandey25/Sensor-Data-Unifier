@@ -1,0 +1,32 @@
+[
+  {
+    "sensor": "sensor-1",
+    "value": 23.5,
+    "timestamp": 1685620800000
+  },
+  {
+    "sensor": "sensor-2",
+    "value": 18.2,
+    "timestamp": 1685621100000
+  },
+  {
+    "sensor": "sensor-1",
+    "value": 24.1,
+    "timestamp": 1685621400000
+  },
+  {
+    "sensor": "device-2",
+    "value": 45.7,
+    "timestamp": 1685624400000
+  },
+  {
+    "sensor": "device-3",
+    "value": 32.1,
+    "timestamp": 1685625000000
+  },
+  {
+    "sensor": "device-2",
+    "value": 46.2,
+    "timestamp": 1685625600000
+  }
+]
